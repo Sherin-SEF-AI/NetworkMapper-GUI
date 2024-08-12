@@ -28,7 +28,7 @@ To install tkinter, run:
 ```sh
 pip install tkinter
 
-git clone https://github.com/yourusername/nmap-gui.git
+git clone https://github.com/Sherin-SEF-AI/NetworkMapper-GUI.git
 cd NetworkMapper-GUI
 sudo python3 nmapenhanced1.py
 
